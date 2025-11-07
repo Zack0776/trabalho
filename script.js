@@ -209,4 +209,5 @@ document.addEventListener('keydown', function(event) {
 });
 
 console.log('🚩 A Voz Libertária - Jornal carregado!');
+
 console.log('✊ Nem Deus, Nem Patrão, Nem Estado!');
